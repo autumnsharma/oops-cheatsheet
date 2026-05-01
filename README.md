@@ -4,7 +4,7 @@ A static, single-page web resource dedicated to explaining the fundamental conce
 Live Access
 The full guide is available online at the following link:
 
-[Insert your GitHub Pages Link Here]
+https://autumnsharma.github.io/oops-cheatsheet/
 
 Core Concepts Covered
 Classes & Objects: Defining blueprints and instantiating objects.
